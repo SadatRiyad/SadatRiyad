@@ -6,7 +6,7 @@ I love Coding. I learned C Programming as a first programming language then I le
 I also know the basics of JavaScript and Java programming languages. And I have some extra knowledge about OOP, DBMS & System analysis.
 I'm UI/UX designer also.🙂
 
-I am currently studying B.SC. in CSE at Dhata International University.
+I am currently studying B.SC. in CSE at Dhaka International University.
 
 My Skills: C / HTML / CSS / BOOTSTRAP / JQUERY / WordPress.
 
