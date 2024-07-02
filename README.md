@@ -32,23 +32,28 @@ I am passionate about coding and have learned various technologies over the year
 ---
 
 ### Contact Me
+
 <p align="center">
-  <a href="https://github.com/SadatRiyad" class="contact-badge" style="animation: pulse-border 1s infinite alternate;"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>&nbsp;
-  <a href="mailto:sadatriyad.dev@gmail.com" class="contact-badge" style="animation: pulse-border 1s infinite alternate;"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/sadatriyad/" class="contact-badge" style="animation: pulse-border 1s infinite alternate;"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>&nbsp;
-  <a href="https://www.facebook.com/sadatriyad.dev" class="contact-badge" style="animation: pulse-border 1s infinite alternate;"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>&nbsp;
-  <a href="https://twitter.com/sadatriyad" class="contact-badge" style="animation: pulse-border 1s infinite alternate;"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/SadatRiyad" class="contact-badge"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>&nbsp;
+  <a href="mailto:sadatriyad.dev@gmail.com" class="contact-badge"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sadatriyad/" class="contact-badge"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="https://www.facebook.com/sadatriyad.dev" class="contact-badge"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>&nbsp;
+  <a href="https://twitter.com/sadatriyad" class="contact-badge"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
 </p>
 
 <style>
   /* CSS for animated badge borders */
-  @keyframes pulse-border {
-    0% {
-      border-color: transparent;
-    }
-    100% {
-      border-color: #4CAF50; /* You can adjust the color to your preference */
-    }
+  .contact-badge {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    border: 1px solid transparent;
+    transition: all 0.3s ease-in-out;
+    margin: 0 5px; /* Adjust margin as needed */
+  }
+
+  .contact-badge:hover {
+    border-color: #4CAF50; /* Change to desired border color on hover */
   }
 </style>
 
