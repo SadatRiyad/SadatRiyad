@@ -45,6 +45,10 @@ I am passionate about coding and have learned various technologies over the year
 
 ![Sadat Riyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadatriyad&show_icons=true&theme=radical)
 
+___
+
+### Most Used Languages 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadatriyad&layout=compact" alt="Top Languages">
 </p>
