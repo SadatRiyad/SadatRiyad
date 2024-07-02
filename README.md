@@ -54,7 +54,8 @@ I am passionate about coding and have learned various technologies over the year
     </a>
 </p>
 
----
+
+___
 
 ### Most Used Languages 
 
