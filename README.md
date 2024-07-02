@@ -1,6 +1,5 @@
 <a href="https://www.facebook.com/sadatriyad.dev"><img src="https://i.ibb.co/4RmwKQr/9mw01i.jpg" alt="9mw01i" border="0"></a>
 
----
 
 ### Assalamu Alaikum, I'm Sadat Riyad
 **I am a Front End Developer and UI/UX Designer.**
