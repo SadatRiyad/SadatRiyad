@@ -45,14 +45,14 @@ I am passionate about coding and have learned various technologies over the year
 
 ### GitHub Stats
 
-<div align=center>
+<p align="center">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=sadatriyad&theme=react&border=61dafb&hide_border=true" alt="sadatriyad />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sadatriyad&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-</div>
+</p>
 
 ---
 
@@ -64,11 +64,13 @@ I am passionate about coding and have learned various technologies over the year
 
 ---
 
-### Contribution Graphs
+### Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadatriyad&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
+___
 
 ### Technologies That I Know
 <p align="center">
