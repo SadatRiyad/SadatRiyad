@@ -54,3 +54,7 @@ I love coding and have learned various technologies over the years. My journey s
 
 ---
 
+### Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment12-Client)](https://github.com/sadatriyad/PH-Assignment12-Client)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment11-Client)](https://github.com/sadatriyad/PH-Assignment11-Client)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment10-Client)](https://github.com/sadatriyad/PH-Assignment10-Client)
