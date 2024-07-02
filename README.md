@@ -7,7 +7,7 @@
 
 ---
 
-### Assalamu Alaikum, I'm Sadat Riyad
+## Assalamu Alaikum, I'm Sadat Riyad
 **Front End Developer | UI/UX Designer**
 
 I am passionate about coding and have learned various technologies over the years. My journey started with C programming and has expanded to include Front End Web Development. Currently, I'm exploring Backend Development and diving deeper into the MERN stack. Below is a brief overview of my skills and interests:
@@ -45,7 +45,7 @@ I am passionate about coding and have learned various technologies over the year
 
 ![Sadat Riyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadatriyad&show_icons=true&theme=radical)
 
-___
+---
 
 ### Most Used Languages 
 
@@ -85,12 +85,18 @@ ___
 
 <p align="center">
   <a href="https://github.com/sadatriyad/PH-Assignment12-Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment12-Client&show_owner=true&hide_border=true&metadata=true" alt="Project 1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment12-Client&show_owner=true&hide_border=true" alt="Project 1">
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/sadatriyad/PH-Assignment11-Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment11-Client&show_owner=true&hide_border=true&metadata=true" alt="Project 2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment11-Client&show_owner=true&hide_border=true" alt="Project 2">
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/sadatriyad/PH-Assignment10-Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment10-Client&show_owner=true&hide_border=true&metadata=true" alt="Project 3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment10-Client&show_owner=true&hide_border=true" alt="Project 3">
   </a>
 </p>
