@@ -23,21 +23,34 @@ I am passionate about coding and have learned various technologies over the year
 ---
 
 ### Current Status
-- 🔭 I’m currently working on Front End Website Design.
-- 🌱 I’m currently learning Full Stack Web Development.
-- 💬 Ask me about my progress or any questions you have.
-- 💞️ I’m looking to collaborate on GitHub projects.
+- 🔭 I’m currently crafting sleek and user-friendly Front End Website Designs.
+- 🌱 I’m avidly exploring the depths of Full Stack Web Development.
+- 💬 Curious about my latest coding challenges? Feel free to ask!
+- 💡 Fun Fact: I'm a coffee enthusiast who believes in the magical powers of a perfectly brewed espresso!
+- 💞️ I’m eager to collaborate on exciting GitHub projects that push boundaries.
 
 ---
 
 ### Contact Me
 <p align="center">
-  <a href="https://github.com/SadatRiyad"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>&nbsp;
-  <a href="mailto:sadatriyad.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/sadatriyad/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>&nbsp;
-  <a href="https://www.facebook.com/sadatriyad.dev"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>&nbsp;
-  <a href="https://twitter.com/sadatriyad"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/SadatRiyad" class="contact-badge" style="animation: pulse-border 1s infinite alternate;"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>&nbsp;
+  <a href="mailto:sadatriyad.dev@gmail.com" class="contact-badge" style="animation: pulse-border 1s infinite alternate;"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sadatriyad/" class="contact-badge" style="animation: pulse-border 1s infinite alternate;"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="https://www.facebook.com/sadatriyad.dev" class="contact-badge" style="animation: pulse-border 1s infinite alternate;"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>&nbsp;
+  <a href="https://twitter.com/sadatriyad" class="contact-badge" style="animation: pulse-border 1s infinite alternate;"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
 </p>
+
+<style>
+  /* CSS for animated badge borders */
+  @keyframes pulse-border {
+    0% {
+      border-color: transparent;
+    }
+    100% {
+      border-color: #4CAF50; /* You can adjust the color to your preference */
+    }
+  }
+</style>
 
 ---
 
