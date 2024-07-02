@@ -41,22 +41,6 @@ I am passionate about coding and have learned various technologies over the year
   <a href="https://twitter.com/sadatriyad" class="contact-badge"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
 </p>
 
-<style>
-  /* CSS for animated badge borders */
-  .contact-badge {
-    position: relative;
-    overflow: hidden;
-    display: inline-block;
-    border: 1px solid transparent;
-    transition: all 0.3s ease-in-out;
-    margin: 0 5px; /* Adjust margin as needed */
-  }
-
-  .contact-badge:hover {
-    border-color: #4CAF50; /* Change to desired border color on hover */
-  }
-</style>
-
 ---
 
 ### GitHub Stats
