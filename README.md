@@ -1,14 +1,14 @@
 <!-- Banner Image -->
 <p align="center">
   <a href="https://www.facebook.com/sadatriyad.dev">
-    <img src="https://i.ibb.co/4RmwKQr/9mw01i.jpg" alt="9mw01i" width="500" height="200">
+    <img src="https://i.ibb.co/4RmwKQr/9mw01i.jpg" alt="banner">
   </a>
 </p>
 
 ---
 
-## Assalamu Alaikum, I'm Sadat Riyad
-### Front End Developer | UI/UX Designer
+### Assalamu Alaikum, I'm Sadat Riyad
+**Front End Developer | UI/UX Designer**
 
 I am passionate about coding and have learned various technologies over the years. My journey started with C programming and has expanded to include Front End Web Development. Currently, I'm exploring Backend Development and diving deeper into the MERN stack. Below is a brief overview of my skills and interests:
 
@@ -43,7 +43,7 @@ I am passionate about coding and have learned various technologies over the year
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadatriyad&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Sadat Riyad's GitHub stats">
+![Sadat Riyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadatriyad&show_icons=true&theme=radical)
 </p>
 
 <p align="center">
