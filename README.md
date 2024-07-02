@@ -1,5 +1,6 @@
 <a href="https://www.facebook.com/sadatriyad.dev"><img src="https://i.ibb.co/4RmwKQr/9mw01i.jpg" alt="9mw01i" border="0"></a>
 
+___
 
 ### Assalamu Alaikum, I'm Sadat Riyad
 **I am a Front End Developer and UI/UX Designer.**
@@ -55,6 +56,12 @@ I love coding and have learned various technologies over the years. My journey s
 ---
 
 ### Pinned Repositories
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment12-Client)](https://github.com/sadatriyad/PH-Assignment12-Client)
+[![ReadMe Card Description](https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment12-Client&show_owner=true&hide_border=true&metadata=true)](https://github.com/sadatriyad/PH-Assignment12-Client)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment11-Client)](https://github.com/sadatriyad/PH-Assignment11-Client)
+[![ReadMe Card Description](https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment11-Client&show_owner=true&hide_border=true&metadata=true)](https://github.com/sadatriyad/PH-Assignment11-Client)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment10-Client)](https://github.com/sadatriyad/PH-Assignment10-Client)
+[![ReadMe Card Description](https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment10-Client&show_owner=true&hide_border=true&metadata=true)](https://github.com/sadatriyad/PH-Assignment10-Client)
