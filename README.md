@@ -53,7 +53,7 @@ I am passionate about coding and have learned various technologies over the year
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sadatriyad&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
 </p>
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 ___
 
