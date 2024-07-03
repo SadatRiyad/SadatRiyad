@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-<p align="center">
+<p align="center" width="100%">
   <a href="https://www.facebook.com/sadatriyad.dev">
-    <img src="https://i.ibb.co/4RmwKQr/9mw01i.jpg" alt="banner">
+    <img src="https://i.ibb.co/4RmwKQr/9mw01i.jpg" alt="banner" width="100%">
   </a>
 </p>
 
@@ -45,21 +45,20 @@ I am passionate about coding and have learned various technologies over the year
 
 ### GitHub Stats
 
-<p align="center">
-  <div align="center" display="flex">
-    <div>
+<p align="center" width="100%">
+  <div align="center" width="100%">
+    <div width="100%">
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=sadatriyad&theme=react&border=61dafb&hide_border=true" alt="sadatriyad />
+      <img width=390 src="https://streak-stats.demolab.com/?user=sadatriyad&theme=react&border=61dafb&hide_border=true" alt="sadatriyad />
     </a>
     </div>
-    <div>
+    <div width="100%">
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sadatriyad&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img width=390 src="https://github-readme-stats.vercel.app/api?username=sadatriyad&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
     </div>
   </div>
 </p>
-<br><br><br><br><br><br>
 
 ___
 
@@ -107,7 +106,7 @@ ___
 ### Pinned Repositories
 <!-- Dynamic project cards with descriptions -->
 
-<p align="center">
+<p>
   <a href="https://github.com/sadatriyad/PH-Assignment12-Client">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment12-Client&show_owner=true&hide_border=true" alt="Project 1">
   </a>
@@ -119,7 +118,7 @@ ___
   </a>
 </p>
 
-<p align="center">
+<p align="end">
   <a href="https://github.com/sadatriyad/PH-Assignment10-Client">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment10-Client&show_owner=true&hide_border=true" alt="Project 3">
   </a>
