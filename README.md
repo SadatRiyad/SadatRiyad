@@ -8,23 +8,34 @@
 ---
 
 ## Assalamu Alaikum, I'm Sadat Riyad
-**Front End Developer | UI/UX Designer**
+**Frontend / MERN Developer | Building TrustyTouch and ClientHuntAi | BSc CSE, DIU (CGPA 3.84) | Dhaka, Bangladesh**
 
-I am passionate about coding and have learned various technologies over the years. My journey started with C programming and has expanded to include Front End Web Development. Currently, I'm exploring Backend Development and diving deeper into the MERN stack. Below is a brief overview of my skills and interests:
+I am passionate about coding and have learned various technologies over the years. My journey started with C programming and has expanded to include Front End Web Development. Currently, I am building real products with the MERN stack, and learning backend development and AI engineering step by step, through those products.
+
+---
+
+### What I am building now
+- **TrustyTouch** - a digital visiting card for freelancers, shop owners and professionals. One card, one link, one QR. Live: https://trustytouch.com
+- **ClientHuntAi** - a Google Maps lead finder for freelancers and agencies. It collects businesses one by one, flags No Website, and gives a clean CSV. It does not bulk-scrape and never guesses emails. Live: https://clienthuntai.com
+- **Trusty IELTS** - IELTS prep with Bangla meanings, flashcards and exams. Live: https://trusty-ielts.netlify.app
+- **Trusty OS** - my personal life operating system: tasks, Salah, Hifz, career, fitness. Live: https://trustyos.netlify.app
+
+I am looking for remote web-development work, and for feedback from freelancers who find clients on Google Maps.
 
 ---
 
 ### Skills
-- **Programming Languages:** C, C++, JavaScript
-- **Web Technologies:** HTML, CSS, React, Bootstrap, Tailwind, jQuery, WordPress, Shopify 
+- **Programming Languages:** C, C++, JavaScript, TypeScript
+- **Web Technologies:** HTML, CSS, React, Node.js, Express, MongoDB, Bootstrap, Tailwind, jQuery, WordPress, Shopify
 - **Design Tools:** Adobe Photoshop, Adobe Illustrator, Adobe XD, Figma, Canva
-- **Additional Skills:** Git, GitHub, ChatGPT
+- **Additional Skills:** Git, GitHub
+- **Currently learning:** Python, LLM APIs, RAG
 
 ---
 
 ### Current Status
-- 🔭 I’m currently crafting sleek and user-friendly Front End Website Designs.
-- 🌱 I’m avidly exploring the depths of Full Stack Web Development.
+- 🔭 I’m currently building TrustyTouch and ClientHuntAi with the MERN stack.
+- 🌱 I’m learning backend development and AI engineering, through real products.
 - 💬 Curious about my latest coding challenges? Feel free to ask!
 - 💡 Fun Fact: I'm a coffee enthusiast who believes in the magical powers of a perfectly brewed espresso!
 - 💞️ I’m eager to collaborate on exciting GitHub projects that push boundaries.
@@ -38,7 +49,8 @@ I am passionate about coding and have learned various technologies over the year
   <a href="mailto:sadatriyad.dev@gmail.com" class="contact-badge"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>&nbsp;
   <a href="https://www.linkedin.com/in/sadatriyad/" class="contact-badge"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>&nbsp;
   <a href="https://www.facebook.com/sadatriyad.dev" class="contact-badge"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"></a>&nbsp;
-  <a href="https://twitter.com/sadatriyad" class="contact-badge"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
+  <a href="https://x.com/SadatRiyad_dev" class="contact-badge"><img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white"></a>
+  <a href="https://www.instagram.com/sadatriyad.dev" class="contact-badge"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
@@ -96,30 +108,22 @@ ___
   <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/-ChatGPT-00DFA2?style=flat&logo=openai&logoColor=white">
 </p>
 
 ---
 
 ### Pinned Repositories
-<!-- Dynamic project cards with descriptions -->
+<!-- Live products first. The TrustyTouch and ClientHuntAi repos are private, so they are linked here as live sites, not as repo pin cards. -->
+
+- **TrustyTouch** - digital visiting card, live at https://trustytouch.com
+- **ClientHuntAi** - Google Maps lead finder, live at https://clienthuntai.com
+- **Portfolio** - my new portfolio rebuild, live at https://sadatriyad.com
 
 <p>
   <a href="https://github.com/sadatriyad/PH-Assignment12-Client">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment12-Client&show_owner=true&hide_border=true" alt="Project 1">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sadatriyad/PH-Assignment11-Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment11-Client&show_owner=true&hide_border=true" alt="Project 2">
-  </a>
-</p>
-
-<p align="end">
-  <a href="https://github.com/sadatriyad/PH-Assignment10-Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment10-Client&show_owner=true&hide_border=true" alt="Project 3">
   </a>
 </p>
