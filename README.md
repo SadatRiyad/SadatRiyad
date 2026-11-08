@@ -122,8 +122,3 @@ ___
 - **ClientHuntAi** - Google Maps lead finder, live at https://clienthuntai.com
 - **Portfolio** - my new portfolio rebuild, live at https://sadatriyad.com
 
-<p>
-  <a href="https://github.com/sadatriyad/PH-Assignment12-Client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadatriyad&repo=PH-Assignment12-Client&show_owner=true&hide_border=true" alt="Project 1">
-  </a>
-</p>
