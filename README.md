@@ -5,9 +5,7 @@
   All stats widgets below use its maintained successor, github-stats-extended.vercel.app,
   and demolab.com for typing/streak. No trophy or activity-graph widget is used:
   both public hosts were disabled in Oct 2026.
-  Stats/streak/top-langs count PUBLIC activity only. This profile is currently
-  marked private, so those cards will look thin until the profile activity is
-  made public (Settings > make contributions public). Do not invent numbers.
+  Stats/streak/top-langs count public activity plus private contributions included anonymously (no private repo names or code are revealed). Do not invent numbers.
 -->
 
 <!-- ===== 1. ANIMATED HEADER ===== -->
@@ -86,7 +84,7 @@ I build practical web products, and I learn by shipping them. My journey started
 
 ## 📊 GitHub analytics
 
-> These cards count **public** activity only. My profile activity is currently private, so the numbers below will look thin until I make contributions public. The live products above are the real proof of work.
+> These cards count public activity, plus private contributions shown anonymously (no private repo names or code are revealed). The live products above are the real proof of work.
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=SadatRiyad&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Sadat Riyad's GitHub stats" />
